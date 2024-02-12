@@ -1,16 +1,9 @@
 # my_login_app
 
-A new Flutter project.
+![Screenshot_1707744674](https://github.com/cengizhankkaya/my_login_ap/assets/92298156/aea26524-bcf5-47db-aed5-ea5e1f09b7bd)
 
-## Getting Started
+![Screenshot_1707744670](https://github.com/cengizhankkaya/my_login_ap/assets/92298156/fd65128a-5bed-41e3-90ef-afc276a57e8c)
 
-This project is a starting point for a Flutter application.
+![Screenshot_1707744690](https://github.com/cengizhankkaya/my_login_ap/assets/92298156/be89eb1a-178c-4d6f-b77b-16d4676f0bbb)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1707744680](https://github.com/cengizhankkaya/my_login_ap/assets/92298156/2b0edc2b-4f02-4b53-bed9-aa6b074d57b8)
